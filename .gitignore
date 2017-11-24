@@ -1,0 +1,12 @@
+.idea
+composer.phar
+
+clover.xml
+coveralls-upload.json
+phpunit.xml
+.buildpath
+.project
+.settings/
+tests/_output/*
+vendor/*
+phinx.yml
